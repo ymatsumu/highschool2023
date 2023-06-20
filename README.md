@@ -1,1 +1,3 @@
-# highschool2023
+# MSU Summer Coding Camp
+
+Lecture materials for high shool python program. 
