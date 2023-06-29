@@ -1,3 +1,3 @@
 # MSU Summer Coding Camp
 
-Lecture materials for high shool python program. 
+Lecture materials, homework, and projects for high shool python program. 
